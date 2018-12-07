@@ -42,5 +42,6 @@ echo $bmw->what_color() . "\n";
 // 常量
 define("CORE_INFO", 123, true);
 echo "\n" . CORE_INFO . "\n";
-
+echo $_POST["fname"];
+echo $_POST["age"]
 ?>
