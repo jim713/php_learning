@@ -42,6 +42,8 @@ echo $bmw->what_color() . "\n";
 // 常量
 define("CORE_INFO", 123, true);
 echo "\n" . CORE_INFO . "\n";
-echo $_POST["fname"];
-echo $_POST["age"]
+echo $_POST["fname"] . "\n";
+echo $_POST["age"] . "\n";
+echo $_POST["p"] . "\n";
+echo date("y-m-d H:i:s");
 ?>
