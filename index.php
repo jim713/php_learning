@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Created by PhpStorm.
  * User: weiqi
@@ -6,3 +7,4 @@
  * Time: 09:39
  */
 echo "Hello World";
+echo "yes";
